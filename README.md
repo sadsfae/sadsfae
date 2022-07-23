@@ -1,5 +1,5 @@
 ### (ಠ_ಠ) About
-[![Web](https://img.shields.io/badge/Web-%40hobo.house-239a3b.svg)](https://hobo.house)
+[![Web](https://img.shields.io/badge/Web-hobo.house-239a3b.svg)](https://hobo.house)
 [![IRC](https://img.shields.io/badge/IRC-%40sadsfae-b533ff.svg)](https://libera.chat)
 [![Twitter](https://img.shields.io/badge/Twitter-%40sadsfae-58a1f2.svg)](https://twitter.com/sadsfae)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/willfoster)
