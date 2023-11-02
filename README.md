@@ -1,4 +1,5 @@
 ### (ಠ_ಠ) About
+![Views](https://visitor-badge.laobi.icu/badge?page_id=sadsfae.sadsfae)
 [![Web](https://img.shields.io/badge/Web-hobo.house-239a3b.svg)](https://hobo.house)
 [![IRC](https://img.shields.io/badge/IRC-%40sadsfae-b533ff.svg)](https://libera.chat)
 [![Twitter](https://img.shields.io/badge/Twitter-%40sadsfae-58a1f2.svg)](https://twitter.com/sadsfae)
