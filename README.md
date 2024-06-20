@@ -6,6 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/willfoster)
 - 🧙 Focusing on Lead DevOps, SRE, Performance/Scale R&D, large-scale BM Systems/Network Automation
 - 💙 Lifelong lover of Open Source, UNIX Principles, Design Simplicity, [Skateboarding](https://youtu.be/YIZZgR1ZMPI?t=13) and Snowboarding
-- ⚔️ Solving Complex Problems and Fighting Hard Battles with a Small Team of Talented Engineers and Doers
+- ⚔️ Solving Complex Problems & Fighting Hard Battles with a Small Team of Talented Engineers and Doers
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadsfae&show_icons=true&theme=dark&custom_title=Github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadsfae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
