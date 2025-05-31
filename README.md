@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40sadsfae-58a1f2.svg)](https://twitter.com/sadsfae)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/willfoster)
 - 🧙 Focusing on Lead DevOps, SRE, Performance/Scale R&D, large-scale BM Systems/Network Automation
-- 🐈 Project Technical Lead for the [QUADS Project](https://quads.dev) and contributor to [Badfish](https://quads.dev/about-badfish)
+- 🐈 Project Technical Lead for the [QUADS Project](https://quads.dev). Contributor to [Badfish](https://quads.dev/about-badfish) and [Slackware](https://en.wikipedia.org/wiki/Slackware) OG Nostalgic
 - 💙 Lifelong lover of Open Source, UNIX Principles, Design Simplicity, [Skateboarding](https://youtu.be/YIZZgR1ZMPI?t=13) and Snowboarding
 - ⚔️ Solving Complex Problems & Fighting Hard Battles with a Small Team of Talented Engineers and Doers
 
