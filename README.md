@@ -9,4 +9,4 @@
 - 💙 Lifelong lover of Open Source, UNIX Principles, Design Simplicity, [Skateboarding](https://youtu.be/YIZZgR1ZMPI?t=13) and Snowboarding
 - ⚔️ Solving Complex Problems & Fighting Hard Battles with a Small Team of Talented Engineers and Doers
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadsfae&show_icons=true&theme=dark&custom_title=Github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadsfae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-rho-pink-42.vercel.app/api?username=sadsfae&show_icons=true&theme=dark&custom_title=Github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-rho-pink-42.vercel.app/api/top-langs/?username=sadsfae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
