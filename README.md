@@ -10,3 +10,4 @@
 - ⚔️ Solving Complex Problems & Fighting Hard Battles with a Small Team of Talented Engineers and Doers
 
 [![GitHub stats](https://github-readme-stats-rho-pink-42.vercel.app/api?username=sadsfae&show_icons=true&theme=dark&custom_title=Github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-rho-pink-42.vercel.app/api/top-langs/?username=sadsfae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://streak-stats.demolab.com?user=sadsfae&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
